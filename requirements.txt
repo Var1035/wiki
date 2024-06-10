@@ -1,3 +1,6 @@
 txtai[all]
 streamlit
 PyPDF2
+streamlit
+transformers
+PyMuPDF
